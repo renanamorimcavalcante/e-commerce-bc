@@ -4,7 +4,7 @@ const Product = () => {
   return (
     <div>
       <h1>RENAN PRODUCT!</h1>
-      <Button>BUTTON</Button>
+      <Button>BUTTON N1</Button>
     </div>
   );
 };
